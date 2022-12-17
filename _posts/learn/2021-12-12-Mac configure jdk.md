@@ -31,5 +31,5 @@ https://links.jianshu.com/go?to=https%3A%2F%2Fwww.oracle.com%2Fjava%2Ftechnologi
 ![image](https://user-images.githubusercontent.com/61699540/208234859-08aee515-4c44-4c0d-9e19-b9fc36a54a36.png)
 
 ### 3.7	`echo $JAVA_HOME` 命令显示刚才配置的路径，看有就是成功
-! [image](https://user-images.githubusercontent.com/61699540/208235617-1cad39fa-6895-4332-a9c0-2af9a9cfe860.png)
+![image](https://user-images.githubusercontent.com/61699540/208235617-1cad39fa-6895-4332-a9c0-2af9a9cfe860.png)
 
