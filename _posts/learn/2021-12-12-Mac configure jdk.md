@@ -1,9 +1,10 @@
 #Mac下安装jdk
 ##1 在官网下载jdk
 https://links.jianshu.com/go?to=https%3A%2F%2Fwww.oracle.com%2Fjava%2Ftechnologies%2Fdownloads%2F
+
 ##2 点击安装包进行安装
   ![image](https://user-images.githubusercontent.com/61699540/208234779-d588f77e-8202-4001-8c79-7772531955a1.png)
-  
+   
 ##3 配置系统环境变量
 
 ###3.1 找到JDK的主目录`/Library/Java/JavaVirtualMachines/jdk1.8.0_351.jdk`
