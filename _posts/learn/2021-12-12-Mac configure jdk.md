@@ -3,7 +3,7 @@
 https://links.jianshu.com/go?to=https%3A%2F%2Fwww.oracle.com%2Fjava%2Ftechnologies%2Fdownloads%2F
 
 ##2 点击安装包进行安装
-  ![image](https://user-images.githubusercontent.com/61699540/208234779-d588f77e-8202-4001-8c79-7772531955a1.png)
+![image](https://user-images.githubusercontent.com/61699540/208234779-d588f77e-8202-4001-8c79-7772531955a1.png)
    
 ##3 配置系统环境变量
 
@@ -22,6 +22,7 @@ https://links.jianshu.com/go?to=https%3A%2F%2Fwww.oracle.com%2Fjava%2Ftechnologi
 ![image](https://user-images.githubusercontent.com/61699540/208234812-1b2294e6-9752-4ef9-975d-27dbaf60d9e1.png)
 
 ###3.5 使用“touch .bash_profile” 创建一个.bash_profile的隐藏配置文件，然后再次编辑使用这个命令open -e .bash_profile"使用这个命令会弹出一个编辑框输入一下内容
+
 ![image](https://user-images.githubusercontent.com/61699540/208234827-15c3088e-02ff-4bcd-ba67-dcd28c285413.png)
 ![image](https://user-images.githubusercontent.com/61699540/208234839-af509069-6de2-45d6-8dc0-a149ffb550a9.png)
 
