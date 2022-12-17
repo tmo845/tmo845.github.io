@@ -1,4 +1,4 @@
-# Mac下安装jdk
+# 一、Mac下安装jdk
 ## 1 在官网下载jdk
 https://links.jianshu.com/go?to=https%3A%2F%2Fwww.oracle.com%2Fjava%2Ftechnologies%2Fdownloads%2F
 
