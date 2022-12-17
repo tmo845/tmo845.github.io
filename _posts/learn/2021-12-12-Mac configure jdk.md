@@ -17,6 +17,7 @@ https://links.jianshu.com/go?to=https%3A%2F%2Fwww.oracle.com%2Fjava%2Ftechnologi
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/61699540/208234803-1403c67d-5406-463a-a21d-00ca7698efd8.png">
  
 ###3.4	查看jdk安装路径：`/usr/libexec/java_home -V`
+
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/61699540/208234812-1b2294e6-9752-4ef9-975d-27dbaf60d9e1.png">
 
 ###3.5 使用“touch .bash_profile” 创建一个.bash_profile的隐藏配置文件，然后再次编辑使用这个命令open -e .bash_profile"使用这个命令会弹出一个编辑框输入一下内容
@@ -24,7 +25,9 @@ https://links.jianshu.com/go?to=https%3A%2F%2Fwww.oracle.com%2Fjava%2Ftechnologi
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/61699540/208234839-af509069-6de2-45d6-8dc0-a149ffb550a9.png">
 
 ###3.6	使用"source .bash_profile"命令,使配置生效
+
 <img width="416" alt="image" src="https://user-images.githubusercontent.com/61699540/208234859-08aee515-4c44-4c0d-9e19-b9fc36a54a36.png">
 
 ###3.7	`echo $JAVA_HOME` 命令显示刚才配置的路径，看有就是成功
+
 ![image](https://user-images.githubusercontent.com/61699540/208234339-0a152fd7-230a-48e5-a7b6-a72bfcec67f6.png)
